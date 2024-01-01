@@ -20,3 +20,6 @@ python unsplash-image-downloader.py --topic Annecy --resolution 1280x1280 --amou
 You can also let the user provide the necessary values. The screenshot can give an idea:
 
 <img width="892" alt="image" src="https://github.com/emreYbs/unsplash-image-downloader-python/assets/59505246/e4461b36-19f0-4ed4-83b2-b13a3761e881">
+
+# Streamlit Version:
+![image](https://github.com/emreYbs/Web-Scraper-Projects/assets/59505246/e4f890c3-9d1d-425c-9e32-3e9df781444b)
